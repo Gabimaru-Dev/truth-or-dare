@@ -4,6 +4,6 @@ services:
     env: node
     plan: free
     buildCommand: npm install
-    startCommand: node index.js
+    startCommand: node host.js
     region: oregon
     autoDeploy: true
