@@ -7,9 +7,9 @@
     "start": "node host.js"
   },
   "dependencies": {
-    "axios": "^1.6.7",
+    "axios": "^1.9.0",
     "cheerio": "^1.0.0-rc.12",
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^5.1.0"
   }
 }
